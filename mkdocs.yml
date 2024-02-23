@@ -1,0 +1,7 @@
+site_name: Josef Mitosinka
+
+nav:
+    - Maturita CJ: 'maturita.md'
+    - WA hodina 9.2.2023: 'wa_9_2.md'
+
+theme: ivory
